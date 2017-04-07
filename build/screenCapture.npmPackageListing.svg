@@ -1,0 +1,43 @@
+<svg height="638" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="638" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-07 02:38:41 +0000    40141 byte  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-07 02:38:41 +0000     1100 byte  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-07 02:38:41 +0000     8145 byte  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-07 02:38:41 +0000      138 byte  example/Makefile</tspan>
+<tspan x="10" y="90">  4.  2017-04-07 02:38:41 +0000      115 byte  example/README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-07 02:38:41 +0000    14316 byte  example/index-bundle.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-07 02:38:41 +0000      159 byte  example/index.html</tspan>
+<tspan x="10" y="138">  7.  2017-04-07 02:38:41 +0000      563 byte  example/index.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-07 02:38:41 +0000      168 byte  example/package.json</tspan>
+<tspan x="10" y="170">  9.  2017-04-07 02:38:41 +0000       31 byte  example/partial.hbs</tspan>
+<tspan x="10" y="186"> 10.  2017-04-07 02:38:41 +0000      110 byte  example/template.hbs</tspan>
+<tspan x="10" y="202"> 11.  2017-04-07 02:38:41 +0000     4504 byte  index.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-07 02:38:41 +0000     2479 byte  package.json</tspan>
+<tspan x="10" y="234"> 13.  2017-04-07 02:38:41 +0000       59 byte  runtime.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-07 02:38:41 +0000      227 byte  test.sh</tspan>
+<tspan x="10" y="266"> 15.  2017-04-07 02:38:41 +0000       17 byte  test/bom.hbs</tspan>
+<tspan x="10" y="282"> 16.  2017-04-07 02:38:41 +0000      595 byte  test/bom_test.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-07 02:38:41 +0000      224 byte  test/browsercode.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-07 02:38:41 +0000      581 byte  test/browserify_test.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-07 02:38:41 +0000       15 byte  test/custom.html</tspan>
+<tspan x="10" y="346"> 20.  2017-04-07 02:38:41 +0000      704 byte  test/custom_compiler_subargs_test.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-07 02:38:41 +0000      503 byte  test/custom_extension_subargs_test.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-07 02:38:41 +0000      428 byte  test/custom_extension_test.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-07 02:38:41 +0000       31 byte  test/custom_pre_compiler.hbs</tspan>
+<tspan x="10" y="410"> 24.  2017-04-07 02:38:41 +0000     1124 byte  test/custom_precompiler_options_test.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-07 02:38:41 +0000      640 byte  test/custom_precompiler_subargs_test.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-07 02:38:41 +0000       11 byte  test/error.hbs</tspan>
+<tspan x="10" y="458"> 27.  2017-04-07 02:38:41 +0000      237 byte  test/error_test.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-07 02:38:41 +0000       44 byte  test/hello.hbs</tspan>
+<tspan x="10" y="490"> 29.  2017-04-07 02:38:41 +0000       45 byte  test/indentation.hbs</tspan>
+<tspan x="10" y="506"> 30.  2017-04-07 02:38:41 +0000      732 byte  test/indentation_test.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-07 02:38:41 +0000      139 byte  test/inlinePartialBrowsercode.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-07 02:38:41 +0000       75 byte  test/inline_partial_require.hbs</tspan>
+<tspan x="10" y="554"> 33.  2017-04-07 02:38:41 +0000      502 byte  test/inline_partial_require_test.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-07 02:38:41 +0000       36 byte  test/partial_require.hbs</tspan>
+<tspan x="10" y="586"> 35.  2017-04-07 02:38:41 +0000      642 byte  test/partial_require_test.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-07 02:38:41 +0000       62 byte  test/partial_required.hbs</tspan>
+<tspan x="10" y="618"> 37.  2017-04-07 02:38:41 +0000      640 byte  test/test.js</tspan>
+</text>
+</svg>
