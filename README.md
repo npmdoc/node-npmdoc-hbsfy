@@ -1,9 +1,14 @@
-# api documentation for  [hbsfy (v2.7.0)](https://github.com/epeli/node-hbsfy#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hbsfy.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hbsfy) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hbsfy.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hbsfy)
+# npmdoc-hbsfy
+
+#### api documentation for  [hbsfy (v2.7.0)](https://github.com/epeli/node-hbsfy#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-hbsfy.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-hbsfy) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-hbsfy.svg)](https://travis-ci.org/npmdoc/node-npmdoc-hbsfy)
+
 #### Handlebars precompiler plugin for Browserify v2
 
-[![NPM](https://nodei.co/npm/hbsfy.png?downloads=true)](https://www.npmjs.com/package/hbsfy)
+[![NPM](https://nodei.co/npm/hbsfy.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/hbsfy)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-hbsfy/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-hbsfy_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-hbsfy/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-hbsfy/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-hbsfy/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-hbsfy/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-hbsfy/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-hbsfy/build/screenCapture.npmPackageListing.svg)
 
@@ -52,17 +57,14 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "epeli",
-            "email": "esa-matti@suuronen.org"
+            "name": "epeli"
         },
         {
-            "name": "kirbysayshi",
-            "email": "kirbysayshi@gmail.com"
+            "name": "kirbysayshi"
         }
     ],
     "name": "hbsfy",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/epeli/node-hbsfy.git"
@@ -73,16 +75,6 @@
     "version": "2.7.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module hbsfy](#apidoc.module.hbsfy)
-
-
-
-# <a name="apidoc.module.hbsfy"></a>[module hbsfy](#apidoc.module.hbsfy)
 
 
 
